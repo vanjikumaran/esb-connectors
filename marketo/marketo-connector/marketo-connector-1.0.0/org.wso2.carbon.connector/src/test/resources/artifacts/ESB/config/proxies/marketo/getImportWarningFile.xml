@@ -18,7 +18,7 @@
 -->
 
 <proxy xmlns="http://ws.apache.org/ns/synapse"
-       name="getImportFailureFile"
+       name="getImportWarningFile"
        transports="https,http"
        statistics="disable"
        trace="disable"

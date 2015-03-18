@@ -47,7 +47,7 @@
         </component>
         <component name="getImportLeadStatus">
             <file>getImportLeadStatus.xml</file>
-            <description>Returns the status of lead operation from Import Lead API call</description>
+            <description>Retrieves the status of lead operation from ImportLead API call</description>
         </component>
         <component name="getImportFailureFile">
             <file>getImportFailureFile.xml</file>
